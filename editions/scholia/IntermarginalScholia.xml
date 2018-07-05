@@ -631,7 +631,7 @@
             <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.453</p>
           </div>
           <div n="comment">
-            <p>ἐν αλλῳ· <rs type="waw">ἐπὴν δὴ τότε</rs></p>
+            <p>ἐν αλλῳ· <q>ἐπὴν δὴ τότε</q></p>
           </div>
         </div>
         <div n="215r2" type="scholion">
@@ -769,7 +769,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.595</p>
             </div>
             <div n="comment">
-              <p>ὅτι ἐν <choice><abbr>πο</abbr><expan>πόλις</expan></choice> <placeName n="urn:cite2:hmt:place:place34">Φθίᾳ</placeName> ἡ <placeName>Ἑλλάς</placeName>  ⁑</p>
+              <p>ὅτι ἐν <choice><abbr>πο</abbr><expan>πόλις</expan></choice> <placeName n="urn:cite2:hmt:place:place34">Φθίᾳ</placeName> ἡ <placeName n="urn">Ἑλλάς</placeName>  ⁑</p>
             </div>
           </div>
           <div n="217v3" type="scholion">

@@ -1,0 +1,23 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>exter</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unpub</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>VA MS</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <group n="16">
+      <text n="msAext">
+        <body>
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>

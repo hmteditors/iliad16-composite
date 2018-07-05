@@ -224,7 +224,7 @@
             <div n="comment">
               <p>αἰ κε ζωὸν</p>
             </div>
-
+          </div>
 
             <div n="214v2" type="scholion">
             <div n="lemma">
@@ -245,15 +245,18 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.524</p>
             </div>
             <div n="comment">
-              <p>-- Αἰολικὸν <rs type="waw">κοίμησον</rs> απο του <rs type="waw">κοίμισον</rs>⁑</p>
+              <p>Αἰολικὸν <rs type="waw">κοίμησον</rs> απο του <rs type="waw">κοίμισον</rs>⁑</p>
             </div>
           </div>
 
+<div n="221v_1" type="scholion">
 
-          <div n="lemma">
+<div n="lemma">
     <p>
     </p>
   </div>
+
+
   <div n="ref">
     <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.798</p>
   </div>
@@ -272,7 +275,10 @@
 
 
 
-
+  <div n="lemma">
+    <p>
+    </p>
+  </div>
 
 
 

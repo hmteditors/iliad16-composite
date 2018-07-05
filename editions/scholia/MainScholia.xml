@@ -893,7 +893,7 @@
                       <p>ἤτοι ὑπο <persName n="urn:cite2:hmt:pers:pers8">Διὸς</persName> πεπτωκότος δια τὸ ἀπο τῶν ὀμβρρίων ὑδάτων πληροῦσθαι τοὺς χειμάρρους ἠ διαφόνους ⁑</p>
                     </div>
                   </div>
-                  <div n="209r6" type="scholion">
+                  <div n="209r7" type="scholion">
                     <div n="lemma">
                       <p>ὅν τέκε <persName n="urn:cite2:hmt:pers:pers184">Πηλῆος</persName> θυφάτηρ </p>
                     </div>
@@ -904,7 +904,7 @@
                       <p>ὅτι <persName n="urn:cite2:hmt:pers:pers255">Φερεκύδης</persName> τὴν <persName n="urn:cite2:hmt:pers:pers1147">Πολυδώραν</persName> φησιν ἀδελφὴν <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλέως</persName> οὐκ έστι δὲ καθ <persName n="urn:cite2:hmt:pers:pers17">Ὅμηρον</persName> διαβεβαιώσασθαι πιθανώτερον οὖν ὁμωνυμίαν εἶναι ὥσπερ καὶ ἐπ άλλων ἐπεὶ προσέθηκεν ἂν τεκμήριον τῆς προς <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλεά</persName> συγγενειας ⁑</p>
                     </div>
                   </div>
-                  <div n="209r7" type="scholion">
+                  <div n="209r8" type="scholion">
                     <div n="lemma">
                       <p>ἐκ τίνος <persName n="urn:cite2:hmt:pers:pers184">Πηλεὺς</persName> <persName n="urn:cite2:hmt:pers:pers1147">Πολυδώρην</persName> ἔσσχεν</p>
                     </div>
@@ -1198,7 +1198,7 @@
                       <p>urn:cts:greekLit:tlg0012.tlg001:16.265</p>
                     </div>
                     <div n="comment">
-                      <p>ὅτι πληθυντικῶς <choice><cor>εἰπῶν</cor><sic>εἰπὼν</sic></choice> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.264</ref> <q>οἱ δ' ἄλκιμον ῆτορ ἔχοντες </q></cit>
+                      <p>ὅτι πληθυντικῶς <choice><corr>εἰπῶν</corr><sic>εἰπὼν</sic></choice> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.264</ref> <q>οἱ δ' ἄλκιμον ῆτορ ἔχοντες </q></cit>
                       ἑνικὸν ἐπιφέρει <rs type="waw">πᾶς</rs> πετεται δια τὸ τὴν ἔννοιαν τοῦ πᾶς πληθυντικὴν εῖναι
                       μόνον γὰρ τὸ σχῆμα ἑνικὸν ὅμοιον τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.166</ref><q>ἀγρόμενοι πᾶς δῆμος</q></cit> ⁑</p>
                     </div>
@@ -1637,17 +1637,6 @@
                       βεβλήκει γὰρ τὸ δόρυ ⁑ </p>
                     </div>
                   </div>
-                  <div n="215r1" type="scholion">
-                    <div n="lemma">
-                      <p></p>
-                    </div>
-                    <div n="ref">
-                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.</p>
-                    </div>
-                    <div n="comment">
-                      <p></p>
-                    </div>
-                  </div>
                   <div n="215v1" type="scholion">
                     <div n="lemma">
                       <p><choice><sic>αχερωῒς</sic><corr>αχερωΐς</corr></choice></p>
@@ -1821,7 +1810,7 @@
                     </div>
                     <div n="comment">
                       <p>ἤτοι στικτέον ἐπι τὸ <rs type="waw">φρεσὶ</rs>, ἢ διασταλτέον ἵνα κοινωνῇ ἔγνω καὶ ἐχάρη
-                      <cit><ref>rn:cts:greekLit:tlg0012.tlg001.msA:16.531</ref><q>ὅτι οἱ ὦκ' ἤκουσε</q></cit> ⁑</p>
+                      <cit><ref>urn:cts:greekLit:tlg0012.tlg001.msA:16.531</ref><q>ὅτι οἱ ὦκ' ἤκουσε</q></cit> ⁑</p>
                     </div>
                   </div>
                   <div n="216v2" type="scholion">
@@ -1881,6 +1870,7 @@
                       δύναται δὲ καὶ ἄ σχημα εἶναι ἀπο δοτικῆς εἰς αιτιατικὴν ὡς κακεῖ <cit><q>αἰει τοι φίλον ἐστὶν ἐμεῦ ἀπο νόσφιν εόντα κρυπταδια φρονέοντα</q><ref>urn:cts:greekLit:tlg0012.tlg001:1.541</ref></cit>.
                       παρατηρητέον δὲ τὸν στίχον προς τὸ ἐπάνω ὑποκείμενον <persName n="urn:cite2:hmt:pers:pers463">Γλαῦκε</persName> πέπον πολέσι μετ ανδράσι ⁑</p>
                     </div>
+                  </div>
                     <div n="217r2" type="scholion">
                       <div n="lemma">
                         <p>ὁς πρῶτος ἐσἥλατο</p>
@@ -1939,7 +1929,7 @@
                          ὡς οἱ νεώτεροι, ἀλλα συνοίκει αὐτῳ ⁑</p>
                        </div>
                      </div>
-                  </div>
+
                   <div n="217v1" type="scholion">
                     <div n="lemma">
                       <p>καί ρ' ἔβαλε <persName>Σθενέλαον:</persName>  </p>

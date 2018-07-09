@@ -1,6 +1,6 @@
 
 -  211v does not load properly or only occasionally so; it is largely unedited
--  xml-editing of Main Scholia unfinished: 209r, 209v, 214v, 218v (the main scholia on this folio are not edited at all; it is quite a packed folio and we simply couldn't make it anymore);
+-  xml-editing of Main Scholia unfinished: 209v, 214v, 218v (the main scholia on this folio are not edited at all; it is quite a packed folio and we simply couldn't make it anymore);
 -  dse indexing of the intermarginals and interlinears of 217r; these need to be done and checked in tandem with the xml editions, because we did have to take some executive decisions about the categorization of some of the scholia on this folio;
 -  checking of the dse indexing of the scholia against the numbering of the scholia in the xml-editions;
 -  final check of closed issues (new items on the authority lists) in the xml-files. There are also still quite some open issues and hence a lot of persName-elements without attributes.
@@ -17,7 +17,6 @@ Fixed Main scholia 208v
 
 
 Completion issues:
-- 209r (mains unfinished)
 - 209v (mains unfinished)
 - 211v (nothing edited)
 - 212r (mains untouched)

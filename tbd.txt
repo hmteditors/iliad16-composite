@@ -27,5 +27,7 @@ Completion issues:
 - 214r (all scholia unindexed)
 - 215r (interlinear orig/reg)
 - 215v (interlinear orig/reg)
+- 216r (unedited intermarginal)
 - 217r (intermarginals and interlinears unindexed)
+- 217v (unedited interlinear)
 - 218v (mains unedited)

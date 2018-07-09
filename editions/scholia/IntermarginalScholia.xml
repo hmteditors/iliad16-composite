@@ -587,7 +587,6 @@
             </div>
           </div>
 
-
           <div n="214v1" type="scholion">
           <div n="lemma">
             <p></p>
@@ -731,6 +730,17 @@
               <p></p>
             </div>
             <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.557</p>
+            </div>
+            <div n="comment">
+              <p>βελτιονος</p>
+            </div>
+          </div>
+          <div n="217r4" type="scholion">
+            <div n="lemma">
+              <p></p>
+            </div>
+            <div n="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.559</p>
             </div>
             <div n="comment">
@@ -738,7 +748,7 @@
             </div>
 
           </div>
-          <div n="217r4" type="scholion">
+          <div n="217r5" type="scholion">
             <div n="lemma">
               <p></p>
             </div>
@@ -749,7 +759,6 @@
               <p>ἀορασίαν</p>
             </div>
           </div>
-
           <div n="217v1" type="scholion">
             <div n="lemma">
               <p></p>

@@ -19,9 +19,10 @@ Fixed Main scholia 208v
 Completion issues:
 - 209v (mains unfinished)
 - 210v (interlinear missing)
+- 211r (interlinear missing)
 - 211v (nothing edited)
 - 212r (mains untouched)
-- 214v (ALL SCHOLION INDEXING; ALSO OTHER STUFF)
+- 214v (ALL SCHOLION INDEXING; also other stuff)
 - 215v (interlinear orig/reg)
 - 217r (dse intermarginals and interlinears)
 - 218v (everything except intermarginals untouched)

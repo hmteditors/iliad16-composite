@@ -18,7 +18,6 @@
         <group n="16">
             <text n="msA">
                 <body>
-                  <!-- 206r some unedited scholia at the end -->
 <div n="A1" type="scholion">
     <div n="lemma">
         <p>ὥς οι μὲν περι νηὸς ἐϋσσέλμοιο</p>
@@ -104,7 +103,6 @@
     </div>
 </div>
 
-<!-- 206v all edited -->
   <div n="B1" type="scholion">
       <div n="lemma">
           <p>τοὺς μέν τ' ϊητροὶ</p>
@@ -296,7 +294,6 @@
       </div>
   </div>
 
-  <!-- 207r none edited -->
 
   <div n="C1" type="scholion">
       <div n="lemma">
@@ -410,8 +407,6 @@
       </div>
   </div>
 
-  <!-- 207v some scholia missing mark up and several unedited scholia -->
-
   <div n="1000" type="scholion">
       <div n="lemma">
           <p>ἔμπεσ' ἐπικρατέως</p>
@@ -474,7 +469,7 @@
       </div>
   </div>
 
-  <!-- mark up incomplete from here on -->
+
   <div n="1003" type="scholion">
       <div n="lemma">
           <p>μὴ σύ γ' ἀνευθεν ἐμεῖο,</p>
@@ -501,7 +496,7 @@
              </p>
       </div>
   </div>
-<!-- scholia indexed but not edited here on for this folio -->
+
   <div n="1005" type="scholion">
       <div n="lemma">
           <p>μή τις απ <placeName n="urn:cite2:hmt:place:place45">Οὐλύμποιο</placeName>:</p>
@@ -561,10 +556,6 @@
       </div>
   </div>
 
-
-
-
-  <!-- 208r  mark up unfinished and 3 unedited scholia -->
 
   <div n="3000" type="scholion">
       <div n="lemma">
@@ -646,7 +637,6 @@
              εἰς ἄπορον καθ ἵστη τὰ τῆς μάχης ὡς μηδὲν ἔχειν μήσασθαι ⁑</p>
       </div>
   </div>
-  <!-- 3 unedited main scholia from this folio -->
   <div n="3006" type="scholion">
       <div n="lemma">
           <p>νηῒ θοῇ,</p>
@@ -929,7 +919,7 @@
                     </div>
                   </div>
 
-                  <div n="209v2" type="scholion">
+                  <div n="209v_2" type="scholion">
                     <div n="lemma">
                       <p>τῆς δ' ἑτέρης</p>
                     </div>
@@ -941,7 +931,7 @@
                     </div>
                   </div>
 
-                  <div n="209v3" type="scholion">
+                  <div n="209v_3" type="scholion">
                     <div n="lemma">
                       <p>παρθένιος τὸν ἐτικτε</p>
                     </div>
@@ -953,7 +943,7 @@
                     </div>
                   </div>
 
-                  <div n="209v4" type="scholion">
+                  <div n="209v_4" type="scholion">
                     <div n="lemma">
                       <p>χρυσηλακάτου-</p>
                     </div>
@@ -965,7 +955,7 @@
                     </div>
                   </div>
 
-                  <div n="209v5" type="scholion">
+                  <div n="209v_5" type="scholion">
                     <div n="lemma">
                       <p>κελαδεινῆς:</p>
                     </div>
@@ -977,7 +967,7 @@
                     </div>
                   </div>
 
-                  <div n="209v6" type="scholion">
+                  <div n="209v_6" type="scholion">
                     <div n="lemma">
                       <p>αὐτίκα δ' εἰς ὑπερῷ ἀναβᾶς,</p>
                     </div>
@@ -989,7 +979,7 @@
                     </div>
                   </div>
 
-                  <div n="209v7" type="scholion">
+                  <div n="209v_7" type="scholion">
                     <div n="lemma">
                       <p><persName n="urn:cite2:hmt:pers:pers104">Ἑρμείας</persName> ἀκάκητα</p>
                     </div>
@@ -1001,7 +991,7 @@
                     </div>
                   </div>
 
-                  <div n="209v8" type="scholion">
+                  <div n="209v_8" type="scholion">
                     <div n="lemma">
                       <p>ἐξάγαγεν φόως δὲ:</p>
                     </div>

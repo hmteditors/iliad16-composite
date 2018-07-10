@@ -722,32 +722,10 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.556</p>
             </div>
             <div n="comment">
-              <p>τὸ <rs type="waw">ἀμύνεσθαι</rs> </p>
+              <p>τὸ <rs type="waw">ἀμύνεσθαι</rs> ἐν αλλῶ <rs type="waw">μενος ἔστω</rs></p>
             </div>
           </div>
           <div n="217r2" type="scholion">
-            <div n="lemma">
-              <p></p>
-            </div>
-            <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.556</p>
-            </div>
-            <div n="comment">
-              <p>ἐν αλλῶ <rs type="waw">μενος ἔστω</rs></p>
-            </div>
-          </div>
-          <div n="217r3" type="scholion">
-            <div n="lemma">
-              <p></p>
-            </div>
-            <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.557</p>
-            </div>
-            <div n="comment">
-              <p>βελτιονος</p>
-            </div>
-          </div>
-          <div n="217r4" type="scholion">
             <div n="lemma">
               <p></p>
             </div>
@@ -756,18 +734,6 @@
             </div>
             <div n="comment">
               <p>λειπει φασὶν αἱ <persName n="urn:cite2:hmt:pers:pers16">Αρισταρχου</persName> τό <rs type="waw">ευ αν έχοι</rs>⁑</p>
-            </div>
-
-          </div>
-          <div n="217r5" type="scholion">
-            <div n="lemma">
-              <p></p>
-            </div>
-            <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.567</p>
-            </div>
-            <div n="comment">
-              <p>ἀορασίαν</p>
             </div>
           </div>
           <div n="217v1" type="scholion">

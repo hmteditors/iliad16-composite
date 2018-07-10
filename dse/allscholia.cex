@@ -214,7 +214,7 @@ urn:cts:greekLit:tlg5026.msA.hmt:16.217r1#urn:cite2:hmt:vaimg.2017a:VA217RN_0388
 urn:cts:greekLit:tlg5026.msA.hmt:16.217r2#urn:cite2:hmt:vaimg.2017a:VA217RN_0388@0.6146,0.4113,0.1875,0.2615#urn:cite2:hmt:msA.v1:217r
 urn:cts:greekLit:tlg5026.msA.hmt:16.217r3#urn:cite2:hmt:vaimg.2017a:VA217RN_0388@0.1804,0.6657,0.6183,0.04869#urn:cite2:hmt:msA.v1:217r
 urn:cts:greekLit:tlg5026.msA.hmt:16.217r4#urn:cite2:hmt:vaimg.2017a:VA217RN_0388@0.1813,0.7104,0.6304,0.03029#urn:cite2:hmt:msA.v1:217r
-urn:cts:greekLit:tlg5026.msAim.hmt:16.217r5#urn:cite2:hmt:vaimg.2017a:VA217RN_0388@0.1787,0.7263,0.5175,0.02503#urn:cite2:hmt:msA.v1:217r
+urn:cts:greekLit:tlg5026.msA.hmt:16.217r5#urn:cite2:hmt:vaimg.2017a:VA217RN_0388@0.1787,0.7263,0.5175,0.02503#urn:cite2:hmt:msA.v1:217r
 urn:cts:greekLit:tlg5026.msA.hmt:16.217v1#urn:cite2:hmt:vaimg.2017a:VA217VN_0719@0.2161,0.3876,0.2316,0.06238#urn:cite2:hmt:msA.v1:217v
 urn:cts:greekLit:tlg5026.msA.hmt:16.217v2#urn:cite2:hmt:vaimg.2017a:VA217VN_0719@0.2106,0.4400,0.2401,0.03001#urn:cite2:hmt:msA.v1:217v
 urn:cts:greekLit:tlg5026.msA.hmt:16.217v3#urn:cite2:hmt:vaimg.2017a:VA217VN_0719@0.2115,0.4664,0.2220,0.1391#urn:cite2:hmt:msA.v1:217v
@@ -395,8 +395,9 @@ urn:cts:greekLit:tlg5026.msAint.hmt:16.218v1#urn:cite2:hmt:vaimg.2017a:VA218VN_0
 urn:cts:greekLit:tlg5026.msAint.hmt:16.218v2#urn:cite2:hmt:vaimg.2017a:VA218VN_0720@0.8900,0.3234,0.04127,0.02517#urn:cite2:hmt:msA.v1:218v
 urn:cts:greekLit:tlg5026.msAint.hmt:16.218v3#urn:cite2:hmt:vaimg.2017a:VA218VN_0720@0.8882,0.3942,0.03685,0.04219#urn:cite2:hmt:msA.v1:218v
 
-urn:cts:greekLit:tlg5026.msAim.hmt:16.217r1#urn:cite2:hmt:vaimg.2017a:VA217RN_0388@0.5291,0.2776,0.06061,0.009267#urn:cite2:hmt:msA.v1:217r
-urn:cts:greekLit:tlg5026.msAim.hmt:16.217r2#urn:cite2:hmt:vaimg.2017a:VA217RN_0388@0.5492,0.2830,0.07222,0.01300#urn:cite2:hmt:msA.v1:217r
-urn:cts:greekLit:tlg5026.msAim.hmt:16.217r3#urn:cite2:hmt:vaimg.2017a:VA217RN_0388@0.5520,0.2938,0.05103,0.01425#urn:cite2:hmt:msA.v1:217r
-urn:cts:greekLit:tlg5026.msAim.hmt:16.217r4#urn:cite2:hmt:vaimg.2017a:VA217RN_0388@0.5831,0.3335,0.05785,0.03264#urn:cite2:hmt:msA.v1:217r
-urn:cts:greekLit:tlg5026.msAim.hmt:16.217r5#urn:cite2:hmt:vaimg.2017a:VA217RN_0388@0.5862,0.4809,0.04550,0.01743#urn:cite2:hmt:msA.v1:217r
+urn:cts:greekLit:tlg5026.msAil.hmt:16.217r1#urn:cite2:hmt:vaimg.2017a:VA217RN_0388@0.5520,0.2938,0.05103,0.01425#urn:cite2:hmt:msA.v1:217r
+urn:cts:greekLit:tlg5026.msAil.hmt:16.217r2#urn:cite2:hmt:vaimg.2017a:VA217RN_0388@0.5862,0.4809,0.04550,0.01743#urn:cite2:hmt:msA.v1:217r
+urn:cts:greekLit:tlg5026.msAil.hmt:16.217r3#urn:cite2:hmt:vaimg.2017a:VA217RN_0388@0.2867,0.5734,0.05269,0.01383#urn:cite2:hmt:msA.v1:217r
+
+urn:cts:greekLit:tlg5026.msAim.hmt:16.217r1#urn:cite2:hmt:vaimg.2017a:VA217RN_0388@0.5276,0.2754,0.09746,0.02296#urn:cite2:hmt:msA.v1:217r
+urn:cts:greekLit:tlg5026.msAim.hmt:16.217r2#urn:cite2:hmt:vaimg.2017a:VA217RN_0388@0.5831,0.3335,0.05785,0.03264#urn:cite2:hmt:msA.v1:217r

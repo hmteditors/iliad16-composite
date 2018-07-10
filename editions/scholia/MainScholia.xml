@@ -1300,6 +1300,52 @@
                       <p></p>
                     </div>
                   </div>
+                  <div n="212r1" type="scholion">
+                    <div n="lemma">
+                      <p>ἀνθ ἵσταντο:</p>
+                    </div>
+                    <div n="ref">
+                      <p>urn:cts:greekLit:tlg0012.tlg001:16.305</p>
+                    </div>
+                    <div n="comment">
+                      <p>ἕν εστι τὸ <q>ἀνθίσταντο</q> οὐχι <q>ἄντα</q> ἐπίρρημα καὶ <q>ἵσταντο</q> ὥς τινες⁑</p>
+                    </div>
+                  </div>
+                  <div n="212r2" type="scholion">
+                    <div n="lemma">
+                      <p>αὐτίκ' ἄρα στρεφθέντος,</p>
+                    </div>
+                    <div n="ref">
+                      <p>urn:cts:greekLit:tlg0012.tlg001:16.308</p>
+                    </div>
+                    <div n="comment">
+                      <p>τοῦτο καὶ απ άλλης ἀρχῆς δύναται λέγεσθαι ἵνα στίζωμεν ἐπὶ τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.307</ref><q>υἱὸς</q></cit> κοινὸν δὲ νοηθήσεται κατ εκείνης τῆς διανοίας τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.306</ref><q>ἕλεν</q></cit>⁑</p>
+                    </div>
+                  </div>
+                  <div n="212r3" type="scholion">
+                    <div n="lemma">
+                      <p><persName n="urn:cite2:hmt:pers:pers880"><persName n="urn:cite2:hmt:pers:pers712">Νεστορίδαι</persName></persName> δ', ὁ μὲν οὔτασ'</p>
+                    </div>
+                    <div n="ref">
+                      <p>urn:cts:greekLit:tlg0012.tlg001:16.317</p>
+                    </div>
+                    <div n="comment">
+                      <p>προς τὸ σχήμα- ὅτι ἀντι τοῦ <q><persNAme n="urn:cite2:hmt:pers:pers880"><persName n="urn:cite2:hmt:pers:pers712">Νεστοριδῶν</persName></persNAme></q>- ὁ μὲν <persName n="urn:cite2:hmt:pers:pers712">Ἀντίλοχος</persName> οὔτασεν <persName n="urn:cite2:hmt:pers:pers1156">Ἀτυμνιον</persName>- ὁ δε <persName n="urn:cite2:hmt:pers:pers880">Θρασυμήδης</persName> <persName n="urn:cite2:hmt:pers:pers1157">Μάριν</persName>⁑</p>
+                    </div>
+                  </div>
+                  <div n="212r4" type="scholion">
+                    <div n="lemma">
+                      <p>ἄχρις ἄραξε:</p>
+                    </div>
+                    <div n="ref">
+                      <p>urn:cts:greekLit:tlg0012.tlg001:16.324</p>
+                    </div>
+                    <div n="comment">
+                      <p><persName n="urn:cite2:hmt:pers:pers16">Ἀρίσταρχος</persName> ὡς <q>μεχρις</q> ἀνεγίνωσκε παρ' ὃ καὶ ἐγένετο. ἐκεῖνο δὲ ἔχομεν λέγειν ὡς τὰ εἰς <rs type="waw">ις</rs> ἐπίρρηματα δισύλλαβα βαρύνεται ὡς ἐχει τὸ <q>ἄνις</q>- <q>ἅλις</q>- <q>μόγις</q>- <q>ἄχρις</q>- <q>αὖθις</q>. ὀξύνεται δὲ τὸ <q>χωρὶς</q> καὶ <q>ἀμφὶς</q>. δι' ὅτι μακρὰν ἔσχεν ἤτοι φύσει ἠ θέσει. τὰ μέντοι βαρυνόμενα ἤτοι βραχεῖαν εἶχεν ἠ τὴν κοινὴν καλουμένην ἥτις ἐδύνατο σχεδὸν βραχεῖα εἶναι δι ὃ ἐμάχετο τὸ <q>αὖθι</q> βαρυνόμενον. δοκεῖ δέ μοι ἀποφυγεῖν τὴν ὀξεῖαν ἐπεὶ καὶ τριχῶς ἐλέγετο κατα τὸ τέλος. <q>αὖθις</q> <q>αὖθι</q> <q>αὖθιν</q>- τὸ δε τοιοῦτον ἑωράτο καὶ ἐπι τοῦ πέρυσι βαρυνομένου⁑</p>
+                    </div>
+                  </div>
+
+
                   <div n="212v1" type="scholion">
                     <div n="lemma">
                       <p>ὡς τὼ μὲν δοιοῖσι κασιγνήτοισι</p>

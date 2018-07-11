@@ -409,7 +409,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001:16.290</p>
             </div>
             <div n="comment">
-              <p><persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχος</persName> ϊακῶς ἀμφὶ φόβηθεν ⁑ </p>
+              <p><persName n="urn:cite2:hmt:pers:pers16"><choice><abbr>Ἀρισταρχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> ϊακῶς <q>αμφὶ φόβηθεν</q> ⁑ </p>
             </div>
           </div>
           <div n="211v2" type="scholion">
@@ -420,7 +420,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001:16.293</p>
             </div>
             <div n="comment">
-              <p>ἐν αλλῳ <rs type="waw">ἀκάματὸν πῦρ</rs> ⁑</p>
+              <p>ἐν αλλῳ <rs type="waw">ἀκάματον πῦρ</rs> ⁑</p>
             </div>
           </div>
           <div n="211v3" type="scholion">
@@ -431,7 +431,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001:16.299</p>
             </div>
             <div n="comment">
-              <p>ὡς <choice><sic>σήφρονες</sic><corr>σώφρονες</corr></choice> προείρηται ⁑</p>
+              <p>ὡς <choice><sic>σήφρονες</sic><corr>σώφρονες</corr></choice> <choice><abbr>προείρητ</abbr><expan>προείρηται</expan></choice> ⁑</p>
             </div>
           </div>
 

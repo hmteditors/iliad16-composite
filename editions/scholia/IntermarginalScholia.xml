@@ -278,7 +278,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.185</p>
             </div>
             <div n="comment">
-              <p><persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχος</persName> προπαροξύνει· οἱ δὲ ἄλλοι ἀναλογίαι πειθόμεναι προπερισπωσί ἐπεισθη δὲ ἡ παραδοσις</p>
+              <p><persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχος</persName> προπαροξύνει- οἱ δὲ ἄλλοι ἀναλογίαι πειθόμεναι προπερισπωσί ἐπεισθη δὲ ἡ παραδοσις</p>
             </div>
           </div>
 
@@ -445,7 +445,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.311</p>
             </div>
             <div n="comment">
-              <p>προϛ τὴν ὁμωνυμίαν ὅτι <placeName n="urn:cite2:hmt:place:place6">Τρωϊκοϛ</placeName> ὁ <persName n="urn:cite2:hmt:pers:pers222">Θόαϛ</persName> ουτοϛ ⁑</p>
+              <p>προς τὴν ὁμωνυμίαν ὅτι <placeName n="urn:cite2:hmt:place:place6">Τρωϊκος </placeName> ὁ <persName n="urn:cite2:hmt:pers:pers222">Θόας </persName> ουτος  ⁑</p>
             </div>
           </div>
           <div n="212r2" type="scholion">
@@ -559,7 +559,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001:16.401</p>
             </div>
             <div n="comment">
-              <p>ότι ὡς περι αλλον επήνεγκεν ὁ δε <persName>Θέστορα</persName> τοῦ λόγου ὄντος περι τοῦ αὐτοῦ ⁑</p>
+              <p>ότι ὡς περι αλλον επήνεγκεν ὁ δε <persName n="urn:cite2:hmt:pers:pers1174">Θέστορα</persName> τοῦ λόγου ὄντος περι τοῦ αὐτοῦ ⁑</p>
             </div>
           </div>
 
@@ -755,7 +755,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.595</p>
             </div>
             <div n="comment">
-              <p>ὅτι ἐν <choice><abbr>πο</abbr><expan>πόλις</expan></choice> <placeName n="urn:cite2:hmt:place:place34">Φθίᾳ</placeName> ἡ <placeName n="urn">Ἑλλάς</placeName>  ⁑</p>
+              <p>ὅτι ἐν <choice><abbr>πο</abbr><expan>πόλις</expan></choice> <placeName n="urn:cite2:hmt:place:place34">Φθίᾳ</placeName> ἡ <placeName n="urn:cite2:hmt:place:place459">Ἑλλάς</placeName>⁑</p>
             </div>
           </div>
           <div n="217v3" type="scholion">

@@ -16,8 +16,6 @@
     <group n="16">
       <text n="msAext">
         <body>
-
-          <!-- 206r 1 unedited -->
                             <div n="A1" type="scholion">
                                 <div n="lemma">
                                     <p/>
@@ -29,14 +27,6 @@
                                     <p><del>ἠὲ αυ'</del></p>
                                 </div>
                             </div>
-
-
-                            <!-- 206v  all good -->
-
-
-                              <!-- 207r all good -->
-
-                              <!-- 207v edited but need text reference URNs; review 1000 because I think it might need to be separated into 2 scholia -->
                               <div n="1000" type="scholion">
                                   <div n="lemma">
                                       <p/>
@@ -70,7 +60,6 @@
                                       <p><q>λύοιμεν</q></p>
                                   </div>
                               </div>
-                              <!-- 208r unedited-->
 
                               <div n="3000" type="scholion">
                                   <div n="lemma">
@@ -83,17 +72,6 @@
                                       <p><q>κεῖρει</q></p>
                                   </div>
                               </div>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -151,7 +129,6 @@
       </div>
 
 
-
       <div n="210v1" type="scholion">
             <div n="lemma">
               <p></p>
@@ -188,18 +165,29 @@
                           </div>
                         </div>
 
-          <div n="213v1" type="scholion">
-            <div n="lemma">
-                <p></p>
-            </div>
-            <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001:16.379</p>
-            </div>
-            <div n="comment">
-              <p><choice><abbr>ἀνεκυμ</abbr><expan>ἀνεκυμβαλιάζον</expan></choice></p>
-            </div>
-          </div>
+                        <div n="213r1" type="scholion">
+                              <div n="lemma">
+                                <p></p>
+                              </div>
+                              <div n="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.358</p>
+                              </div>
+                              <div n="comment">
+                                <p><persName n="urn:cite2:hmt:pers:pers127">Αἴας</persName></p>
+                              </div>
+                            </div>
 
+                            <div n="213v1" type="scholion">
+                              <div n="lemma">
+                                <p></p>
+                              </div>
+                              <div n="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001:16.379</p>
+                              </div>
+                              <div n="comment">
+                                <p><choice><abbr>ἀνεκυμ</abbr><expan>ἀνεκυμβαλιάζον</expan></choice></p>
+                              </div>
+                            </div>
 
 
           <div n="213v2" type="scholion">
@@ -233,10 +221,10 @@
             <div n="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.450</p>
             </div>
-              div n="comment">
-              <p>ἀλλ᾿ εἴτοι φιλος εστι</p>
+              <div n="comment">
+              <p>ἀλλ' εἴτοι φιλος εστι</p>
             </div>
-
+          </div>
             <div n="216r1" type="scholion">
             <div n="lemma">
               <p></p>
@@ -250,13 +238,10 @@
           </div>
 
 <div n="221v_1" type="scholion">
-
 <div n="lemma">
     <p>
     </p>
   </div>
-
-
   <div n="ref">
     <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.798</p>
   </div>
@@ -266,20 +251,6 @@
     </p>
     </div>
   </div>
-
-
-
-
-
-
-
-
-
-  <div n="lemma">
-    <p>
-    </p>
-  </div>
-
 
 
 

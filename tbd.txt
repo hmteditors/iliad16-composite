@@ -1,0 +1,33 @@
+
+-  211v does not load properly or only occasionally so; it is largely unedited
+-  xml-editing of Main Scholia unfinished: 209v, 218v (the main scholia on this folio are not edited at all; it is quite a packed folio and we simply couldn't make it anymore);
+-  dse indexing of the intermarginals and interlinears of 217r; these need to be done and checked in tandem with the xml editions, because we did have to take some executive decisions about the categorization of some of the scholia on this folio;
+-  checking of the dse indexing of the scholia against the numbering of the scholia in the xml-editions;
+-  final check of closed issues (new items on the authority lists) in the xml-files. There are also still quite some open issues and hence a lot of persName-elements without attributes.
+-  documenting the slurs on 210r (in 16.224), 210v (16.235), and 2 on 218v
+
+- persNames
+- citedworks
+- abbr/expan
+- q/waw
+- Interlinear @'s
+- Main scholia line refs
+
+Fixed Main scholia 208v
+
+
+Completion issues:
+- 209v (mains unfinished)
+- 210v (interlinear unedited)
+- 211r (interlinear unedited)
+- 211v (nothing edited; nothing indexed)
+- 212r (mains untouched)
+- 212v (interlinear unedited)
+- 213r (exterior unedited)
+- 214r (all scholia unindexed)
+- 215r (interlinear orig/reg)
+- 215v (interlinear orig/reg)
+- 216r (unedited intermarginal)
+- 217r (intermarginals and interlinears unindexed)
+- 217v (unedited interlinear)
+- 218v (mains unedited)

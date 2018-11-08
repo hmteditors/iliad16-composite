@@ -339,7 +339,7 @@
               <p></p>
             </div>
             <div n="comment">
-              <p><choice><abbr>χω</abbr><expan>χωρίς</expan></choice> του <rs type="waw">τ</rs> <rs type="waw">ὃν τεκε</rs> <persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχος</persName> <choice><abbr>ουτ</abbr><expan>οὑτῶς</expan></choice> καὶ <persName n="urn:cite2:hmt:pers:pers21">Αριστοφανηs</persName></p>
+              <p><choice><abbr>χω</abbr><expan>χωρίς</expan></choice> του <rs type="waw">τ</rs> <rs type="waw">ὃν τεκε</rs> <persName n="urn:cite2:hmt:pers:pers16">Ἀρισταρχος</persName> <choice><abbr>ουτ</abbr><expan>οὑτῶς</expan></choice> καὶ <persName n="urn:cite2:hmt:pers:pers21">Αριστοφανης</persName></p>
             </div>
           </div>
 
@@ -419,13 +419,13 @@
 
           <div n="211v1" type="scholion">
             <div n="lemma">
-              <p></p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.298</p>
             </div>
             <div n="ref">
               <p></p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>ὑπ ανέμου δηλονότι:</p>
             </div>
           </div>
 
@@ -484,7 +484,7 @@
           <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.351</p>
         </div>
         <div n="comment">
-          <p>βραχὺ διασταλτἐον <rs type="ethnic" n="urn:cite2:hmt:pers:pers66">δαναοὶ</rs> διὰ τὸ ἀπεμφαινον ⁑</p>
+          <p>βραχὺ διασταλτἐον <rs type="ethnic" n="urn:cite2:hmt:pers:pers66">Δαναοὶ</rs> διὰ τὸ ἀπεμφαινον ⁑</p>
         </div>
       </div>
 
@@ -522,7 +522,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.401</p>
             </div>
             <div n="comment">
-              <p>ὅτι ὡς περι ἄλλου ἑπήνεγκε <rs type="waw">ὁ δὲ <persName>Θέστορα</persName></rs> τοῦ λόγου οντος περὶ τοῦ αυτοῦ ⁑</p>
+              <p>ὅτι ὡς περι ἄλλου ἑπήνεγκε <rs type="waw">ὁ δὲ <persName n="urn:cite2:hmt:pers:pers1174">Θέστορα</persName></rs> τοῦ λόγου οντος περὶ τοῦ αυτοῦ ⁑</p>
             </div>
           </div>
 
@@ -559,7 +559,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.463</p>
             </div>
             <div n="comment">
-              <p>ἐν αλλῳ <rs type="waw"><persName>Θρασύδημον</persName></rs> ⁑</p>
+              <p>ἐν αλλῳ <persName n="urn:cite2:hmt:pers:pers1181">Θρασύδημον</persName>⁑</p>
             </div>
           </div>
 
@@ -700,18 +700,18 @@
 
           <div n="219r1" type="scholion">
             <div n="lemma">
-              <p>βασιλῆα ἴ¨δον βεβλαμμένον ῆτορ.</p>
+              <p></p>
             </div>
             <div n="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.660</p>
             </div>
             <div n="comment">
-              <p>βασιλῆα ἴ¨δον βεβλαμμένον τὸ ῆτορ νέκρον⁑</p>
+              <p>βασιλῆα ἴ+δον βεβλαμμένον τὸ ῆτορ νέκρον⁑</p>
             </div>
           </div>
           <div n="219r2" type="scholion">
             <div n="lemma">
-              <p><persName n= "urn:cite2:hmt:pers:pers195">Σαρπηδόνα</persName></p>
+              <p></p>
             </div>
             <div n="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.668</p>
@@ -722,7 +722,7 @@
           </div>
           <div n="219r3" type="scholion">
             <div n="lemma">
-              <p>θήσουσ᾽ ἐν <placeName n= "urn:cite2:hmt:place:place75">Λυκίης</placeName> εὐρείης πίονι δήμῳ·</p>
+              <p></p>
             </div>
             <div n="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.msA:16.673</p>
